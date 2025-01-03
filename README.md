@@ -96,8 +96,3 @@ This script analyzes a dataset of mental disorders using various machine learnin
 - Customize file paths as needed for your environment.
 - Modify the mappings or add new models if necessary.
 
----
-
-## Contact
-For questions or improvements, feel free to reach out!
-
