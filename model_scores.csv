@@ -1,0 +1,9 @@
+Model,Mean Accuracy
+SVC,89.17
+Logistic Regression,88.33
+Perceptron,88.33
+Random Forest,87.5
+Linear SVC,86.67
+Decision Tree,78.33
+KNN,76.67
+Naive Bayes,70.0
